@@ -63,7 +63,161 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="3" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="7" RULE="ON_BRANCH_CREATION"/>
+<node TEXT="Hidden World" POSITION="right" ID="ID_1372864584" CREATED="1554286613958" MODIFIED="1554286615130">
+<edge COLOR="#7c0000"/>
+<node TEXT="https://en.wikipedia.org/wiki/Hidden_World_(album)" ID="ID_851957530" CREATED="1554286600026" MODIFIED="1554286618912" LINK="https://en.wikipedia.org/wiki/Hidden_World_(album)"/>
+</node>
+<node TEXT="The Chemistry of Common Life" FOLDED="true" POSITION="right" ID="ID_1610501968" CREATED="1550745672596" MODIFIED="1550745674778">
+<edge COLOR="#00ff00"/>
+<node TEXT="https://en.wikipedia.org/wiki/The_Chemistry_of_Common_Life" ID="ID_581401806" CREATED="1550745712456" MODIFIED="1550745712456" LINK="https://en.wikipedia.org/wiki/The_Chemistry_of_Common_Life"/>
+<node TEXT="https://genius.com/albums/Fucked-up/The-chemistry-of-common-life" FOLDED="true" ID="ID_13535315" CREATED="1550745651021" MODIFIED="1550746305002" LINK="https://genius.com/albums/Fucked-up/The-chemistry-of-common-life">
+<node FOLDED="true" ID="ID_1309055982" CREATED="1550746176521" MODIFIED="1550746176521" LINK="https://genius.com/Fucked-up-son-the-father-lyrics"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <h3 class="chart_row-content-title">
+      <a ng-if="$ctrl.can('view')" ng-href="https://genius.com/Fucked-up-son-the-father-lyrics" class="u-display_block" href="https://genius.com/Fucked-up-son-the-father-lyrics">Son the Father <span class="chart_row-content-title-subtitle">Lyrics</span></a>
+    </h3>
+  </body>
+</html>
+</richcontent>
+<node TEXT="Father, father, come see what I&apos;ve built&#xa;Made civilization out of the Nile silt&#xa;Built your monuments out of my brother&apos;s bones&#xa;Exalted your words in flesh-bound tomes&#xa;&#xa;It&apos;s hard enough being born in the first place&#xa;Who would ever want to be born again?&#xa;It&apos;s taken this long just to get to this place&#xa;So what&apos;s the point in ever being born again?&#xa;&#xa;Papa, papa, come and watch me play&#xa;The whole world before me I laid to waste&#xa;Built Jerusalem out of these hidden worlds&#xa;But I won&apos;t share it with the other boys and girls&#xa;&#xa;It&apos;s hard enough being born in the first place&#xa;Who would ever want to be born again?&#xa;It&apos;s taken this long just to get to this place&#xa;So what&apos;s the point in ever being born again?&#xa;&#xa;More embarrassed than I&apos;d hope to admit&#xa;The living embodiment of perfect&#xa;A reversed Oedipal complex&#xa;Based on power and not on the sex&#xa;&#xa;More embarrassed than I&apos;d ever to admit&#xa;The living embodiment of perfect&#xa;A reversed Oedipal complex&#xa;Based on power and not on the sex&#xa;&#xa;Daddy, daddy, are you proud of me?&#xa;I did it all for you because of what I believe&#xa;The sins of the father carried out by the son&#xa;From Cain and Abel until the last living life is done&#xa;&#xa;It&apos;s hard enough being born in the first place&#xa;Who would ever want to be born again?&#xa;It&apos;s taken this long just to get to this place&#xa;So what&apos;s the point in ever being born again?&#xa;&#xa;Again we stand slack-jawed&#xa;As our fates are moved by the hand of God, of God, of God, of God, of God&#xa;A God is what we see&#xa;As we stare into his Papal eyes" ID="ID_611821192" CREATED="1550746314928" MODIFIED="1550746316283"/>
+</node>
+<node FOLDED="true" ID="ID_149531556" CREATED="1550746187995" MODIFIED="1550746305001" LINK="https://genius.com/Fucked-up-magic-word-lyrics" HGAP_QUANTITY="13.250000022351742 pt" VSHIFT_QUANTITY="-0.7499999776482589 pt"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <h3 class="chart_row-content-title">
+      <a ng-if="$ctrl.can('view')" ng-href="https://genius.com/Fucked-up-magic-word-lyrics" class="u-display_block" href="https://genius.com/Fucked-up-magic-word-lyrics">Magic Word <span class="chart_row-content-title-subtitle">Lyrics</span></a>
+    </h3>
+  </body>
+</html>
+</richcontent>
+<node TEXT="[Verse 1:]&#xa;Put a bug into my ear&#xa;When I woke up I was here&#xa;I blew smoke onto a page and watched the letters re-arrange&#xa;Pushed the words into my veins&#xa;Tripped the valve inside my brain&#xa;Spoke a language I could see&#xa;I swam inside reality&#xa;&#xa;[Chorus]&#xa;Write in vines and speak in tongues&#xa;Double meanings in my lungs&#xa;Brazen head spits out the skies&#xa;These words are heavy but I&apos;m alright&#xa;&#xa;[Verse 2:]&#xa;The tangled web inside my head changed the canvas as it spread&#xa;Concepts mushroomed as I talked&#xa;Notions opened as I walked&#xa;Chemistry is just a word we use to describe&#xa;What occurs when subtle changes in our mind make energy from common lives&#xa;&#xa;[Chorus]&#xa;&#xa;[Bridge]&#xa;Things move everywhere, I look, I&apos;m stuck in someone else&apos;s book&#xa;Letter perfect engineer then it all just disappears&#xa;Alright&#xa;&#xa;[Chorus]&#xa;&#xa;All of my words became one all the changes were undone&#xa;I&apos;m a strange loop, that is clear, put a bug into my ear" ID="ID_1377134936" CREATED="1550746320416" MODIFIED="1550746340546"/>
+</node>
+<node ID="ID_313554060" CREATED="1550746194906" MODIFIED="1550746194906" LINK="https://genius.com/Fucked-up-golden-seal-lyrics"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <h3 class="chart_row-content-title">
+      <a ng-if="$ctrl.can('view')" ng-href="https://genius.com/Fucked-up-golden-seal-lyrics" class="u-display_block" href="https://genius.com/Fucked-up-golden-seal-lyrics">Golden Seal <span class="chart_row-content-title-subtitle">Lyrics</span></a>
+    </h3>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_57835709" CREATED="1550746197863" MODIFIED="1550746197863" LINK="https://genius.com/Fucked-up-days-of-last-lyrics"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <h3 class="chart_row-content-title">
+      <a ng-if="$ctrl.can('view')" ng-href="https://genius.com/Fucked-up-days-of-last-lyrics" class="u-display_block" href="https://genius.com/Fucked-up-days-of-last-lyrics">Days of Last <span class="chart_row-content-title-subtitle">Lyrics</span></a>
+    </h3>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_1201379801" CREATED="1550746201119" MODIFIED="1550746201119" LINK="https://genius.com/Fucked-up-crooked-head-lyrics"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <h3 class="chart_row-content-title">
+      <a ng-if="$ctrl.can('view')" ng-href="https://genius.com/Fucked-up-crooked-head-lyrics" class="u-display_block" href="https://genius.com/Fucked-up-crooked-head-lyrics">Crooked Head <span class="chart_row-content-title-subtitle">Lyrics</span></a>
+    </h3>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_1756184982" CREATED="1550746203834" MODIFIED="1550746203834" LINK="https://genius.com/Fucked-up-no-epiphany-lyrics"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <h3 class="chart_row-content-title">
+      <a ng-if="$ctrl.can('view')" ng-href="https://genius.com/Fucked-up-no-epiphany-lyrics" class="u-display_block" href="https://genius.com/Fucked-up-no-epiphany-lyrics">No Epiphany <span class="chart_row-content-title-subtitle">Lyrics</span></a>
+    </h3>
+  </body>
+</html>
+</richcontent>
+</node>
+<node FOLDED="true" ID="ID_477685877" CREATED="1550746206944" MODIFIED="1550746206944" LINK="https://genius.com/Fucked-up-black-albino-bones-lyrics"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <h3 class="chart_row-content-title">
+      <a ng-if="$ctrl.can('view')" ng-href="https://genius.com/Fucked-up-black-albino-bones-lyrics" class="u-display_block" href="https://genius.com/Fucked-up-black-albino-bones-lyrics">Black Albino Bones <span class="chart_row-content-title-subtitle">Lyrics</span></a>
+    </h3>
+  </body>
+</html>
+</richcontent>
+<node TEXT="Can&apos;t sleep thinking about it (x4)&#xa;&#xa;Rubbing stones together until the magic comes out&#xa;Embracing the purity, the purity of obscurity&#xa;Try to capture the name as it spins in your mind&#xa;Follow it with our eyes&#xa;The dizzy epiphany discovered an artifact of my own&#xa;It&apos;s the little things that get us through life&#xa;&#xa;Squishing flesh together until the magic comes out&#xa;Until we both ejaculate ride the wave&#xa;As a little dies, the orgasmic of the fantastic&#xa;We well up, and then we explode!&#xa;It&apos;s the little things that get us through life&#xa;&#xa;I need a little escape (x4)&#xa;&#xa;Burning plants together until the magic comes out&#xa;Take it in the inhalate, inhalate what escalates&#xa;Hold the vapor deep down inside the toxic fumes&#xa;Initiate the levitate&#xa;We slowly start to drift off&#xa;It&apos;s the little things that get us through life&#xa;&#xa;I need a little escape (x4)&#xa;&#xa;Rubbing stones together until the magic comes out&#xa;Squishing flesh together until the magic comes out&#xa;Burning plants together until the magic comes out&#xa;&#xa;Can&apos;t sleep thinking about it (x4)&#xa;&#xa;I need a little escape (x6)" ID="ID_243824580" CREATED="1550746237159" MODIFIED="1550746238971"/>
+</node>
+<node ID="ID_1370103987" CREATED="1550746210385" MODIFIED="1550746210385" LINK="https://genius.com/Fucked-up-royal-swan-lyrics"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <h3 class="chart_row-content-title">
+      <a ng-if="$ctrl.can('view')" ng-href="https://genius.com/Fucked-up-royal-swan-lyrics" class="u-display_block" href="https://genius.com/Fucked-up-royal-swan-lyrics">Royal Swan <span class="chart_row-content-title-subtitle">Lyrics</span></a>
+    </h3>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_1831343566" CREATED="1550746215416" MODIFIED="1550746215416" LINK="https://genius.com/Fucked-up-twice-born-lyrics"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <h3 class="chart_row-content-title">
+      <a ng-if="$ctrl.can('view')" ng-href="https://genius.com/Fucked-up-twice-born-lyrics" class="u-display_block" href="https://genius.com/Fucked-up-twice-born-lyrics">Twice Born (Ft.&#160;Sebastien&#160;Grainger) <span class="chart_row-content-title-subtitle">Lyrics</span></a>
+    </h3>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_1429065859" CREATED="1550746219031" MODIFIED="1550746219031" LINK="https://genius.com/Fucked-up-the-chemistry-of-common-life-lyrics"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <h3 class="chart_row-content-title">
+      <a ng-if="$ctrl.can('view')" ng-href="https://genius.com/Fucked-up-the-chemistry-of-common-life-lyrics" class="u-display_block" href="https://genius.com/Fucked-up-the-chemistry-of-common-life-lyrics">The Chemistry of Common Life <span class="chart_row-content-title-subtitle">Lyrics</span></a>
+    </h3>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="1. &quot;Son the Father&quot; (guest vocals by Lullabye Arkestra) 6:32&#xa;2. &quot;Magic Word&quot; 3:21&#xa;3. &quot;Golden Seal&quot; 3:35&#xa;4. &quot;Days of Last&quot; 4:31&#xa;5. &quot;Crooked Head&quot; 5:55&#xa;6. &quot;No Epiphany&quot; (guest vocals by Vivian Girls) 4:19&#xa;7. &quot;Black Albino Bones&quot; (guest vocals by Dallas Green) 4:14&#xa;8. &quot;Royal Swan&quot; (guest vocals by Katie Stelmanis) 4:49&#xa;9. &quot;Twice Born&quot; (guest vocals by Sebastien Grainger) 4:26&#xa;10. &quot;Looking for God&quot; (Instrumental) 3:15&#xa;11. &quot;The Chemistry of Common Life&quot; 7:23" ID="ID_1263773192" CREATED="1550745737135" MODIFIED="1550745739111"/>
+</node>
 <node TEXT="David Comes To Life" POSITION="right" ID="ID_980930669" CREATED="1548234268787" MODIFIED="1548234276221">
 <edge COLOR="#ff0000"/>
 <node TEXT="https://en.wikipedia.org/wiki/David_Comes_to_Life" ID="ID_739057139" CREATED="1548234895886" MODIFIED="1548234895886" LINK="https://en.wikipedia.org/wiki/David_Comes_to_Life"/>
@@ -79,7 +233,7 @@
 </html>
 </richcontent>
 </node>
-<node TEXT="https://www.vulture.com/2011/06/fucked_up_explain_the_epic_tal.html" ID="ID_1659431226" CREATED="1548237059626" MODIFIED="1548246185649" LINK="https://www.vulture.com/2011/06/fucked_up_explain_the_epic_tal.html">
+<node TEXT="https://www.vulture.com/2011/06/fucked_up_explain_the_epic_tal.html" FOLDED="true" ID="ID_1659431226" CREATED="1548237059626" MODIFIED="1548246185649" LINK="https://www.vulture.com/2011/06/fucked_up_explain_the_epic_tal.html">
 <node TEXT="Last week, Fucked Up &#x2014; the anthemic Toronto punk band behind 2008 Polaris Prize winner The Chemistry of Common Life &#x2014; released their latest, a critically acclaimed concept album called David Comes to Life. The underlying story, as front man Damian &#x201c;Pink Eyes&#x201d; Abraham and guitarist Mike &#x201c;10,000 Marbles&#x201d; Haliechuk told Vulture, consists of three primary characters: David, the beaten-down narrator; Veronica, his inspiring new love; and Octavius, a dastardly villain intent on shattering David&#x2019;s hope. Along the way there are fistfights, explosions, depression, meta plot twists, and enough heartache to fill a midsize cargo ship. Herewith: Haliechuck and Abraham&#x2019;s full guide to David&#x2019;s story line. Print it out, laminate it, keep it in your pocket.&#xa;&#xa;1. &#x201c;Let Her Rest&#x201d; (instrumental)&#xa;Abraham: The music was completely done by the time we got around to doing the narrative. It was structured in a way that certain songs would have natural positions, like a climactic scene or an epiphany scene. And then we sat down, with a book on Shakespearean structure and a Wikipedia entry on play structure, at the Dufferin Mall, a not-so-great mall near all our houses. It&#x2019;s neutral territory: All our great summits when we&#x2019;re not agreeing are held there to avoid bloodshed. Almost immediately we decided it should take place in the U.K. and that it should take place in a time that wasn&#x2019;t our own, and that we wanted a love component to it and a social component to it. The late seventies, early eighties was perfect: all our obsession with anglophile music, and the history of DIY and punk culture, and the death of labor that was happening at the time, could be played with." ID="ID_1231074785" CREATED="1548237089220" MODIFIED="1548237091077"/>
 <node TEXT="2. &#x201c;Queen of Hearts&#x201d;&#xa;Haliechuk: It introduces where David&#x2019;s life is at: He&#x2019;s one of these downtrodden, factory-working-type guys; he has no hope that things are going to change, that things are going to get better to him. And as it always does, magically, some beautiful woman falls in his lap and he falls in love with her immediately.&#xa;Abraham: It&#x2019;s about these moments of elation we get when we enter a relationship, when all of a sudden we&#x2019;re snapped out of the darkest periods. You&#x2019;re working your day job, and the next day work just seems bearable. Like, Wow, I can do this. Specifically, it&#x2019;s about meeting someone who awakens a different something out of you, that first relationship that you have with someone cooler than you." FOLDED="true" ID="ID_1127496226" CREATED="1548237107939" MODIFIED="1548237109711">
 <node TEXT="https://genius.com/Fucked-up-queen-of-hearts-lyrics" ID="ID_1728981472" CREATED="1548840679569" MODIFIED="1548840679569" LINK="https://genius.com/Fucked-up-queen-of-hearts-lyrics"/>
@@ -101,11 +255,11 @@
 <node TEXT="https://genius.com/Fucked-up-running-on-nothing-lyrics" ID="ID_1399371399" CREATED="1548840535452" MODIFIED="1548840535452" LINK="https://genius.com/Fucked-up-running-on-nothing-lyrics"/>
 <node TEXT="How could we be so blind to the effects each time?&#xa;Why keep watching when you know the end?&#xa;Why make this journey again and again?&#xa;We know it&apos;s just pain and lies&#xa;Let&apos;s watch, feign surprise&#xa;Afraid to admit that it&apos;s all a facade&#xa;You wind up alone in spite of what they laud&#xa;&#xa;Well I been marchin&apos; for so long&#xa;I towed that line, so strong&#xa;I kept holdin&apos; until it tore me apart&#xa;Until I (?) in my chest and ripped out my heart&#xa;So mother, may I please submit, the notion&#xa;I no longer believe in this shit?&#xa;Lay me on the consummation bed&#xa;A fatal blow driven to the maidenhead&#xa;&#xa;We&apos;re runnin on nothin&apos;&#xa;But the fumes of our dreams&#xa;At another point in my life&#xa;That was good enough for me&#xa;&#xa;Short plume, fades fast&#xa;The petals fall and crash&#xa;Well, I believe one could put it best&#xa;We spend most of life dealin&apos; with the mess&#xa;The saddest joy is (?) I concede&#xa;But the bitter resolution is why I secede&#xa;Sick of fallin&apos; from the lowest low&#xa;The higher the height, the further you go&#xa;&#xa;Pull myself back to bended knee&#xa;Just an emotion, it hurts physically&#xa;Swans mate for life or so I&apos;ve heard&#xa;Which is fitting, because that shit&apos;s for the birds&#xa;&#xa;(Chorus)&#xa;&#xa;They leave, it hurts&#xa;See it comin&apos;, it&apos;s worse&#xa;Stiff upper lip try to carry on&#xa;Let&apos;s pretend this shit is makin&apos; us strong&#xa;And we only can take so much&#xa;Before all our sense of decency is finally crushed&#xa;And all that&apos;s left is a dried out husk&#xa;With the belief that love isn&apos;t gonna save us&#xa;&#xa;(Chorus)&#xa;&#xa;Those better days ain&apos;t gonna come&#xa;Those better days have passed us by&#xa;Those better days have all run out&#xa;&apos;Cause those better days were a lie&#xa;&#xa;Fall (x4)" ID="ID_826654690" CREATED="1548840452965" MODIFIED="1548840454467"/>
 </node>
-<node TEXT="7. &#x201c;Remember My Name&#x201d;&#xa;Haliechuck: That&#x2019;s the narrator telling us: David&#x2019;s right. He shouldn&#x2019;t have spent any time on love. It&#x2019;s better not to have those things then to have them and lose them. You&#x2019;re set up for disappointment." ID="ID_1409856957" CREATED="1548237167508" MODIFIED="1548246185636">
+<node TEXT="7. &#x201c;Remember My Name&#x201d;&#xa;Haliechuck: That&#x2019;s the narrator telling us: David&#x2019;s right. He shouldn&#x2019;t have spent any time on love. It&#x2019;s better not to have those things then to have them and lose them. You&#x2019;re set up for disappointment." FOLDED="true" ID="ID_1409856957" CREATED="1548237167508" MODIFIED="1548246185636">
 <node TEXT="https://genius.com/Fucked-up-remember-my-name-lyrics" ID="ID_717307915" CREATED="1548851611778" MODIFIED="1548851611778" LINK="https://genius.com/Fucked-up-remember-my-name-lyrics"/>
 <node TEXT="No truer plea has ever been&#xa;Than what, through David, we&apos;ve seen&#xa;His turn from a life of frustration&#xa;To embrace love&apos;s condemnation&#xa;&#xa;Better to let love lie&#xa;Than have to see it die&#xa;It&apos;s better to be alone&#xa;Than feel your heart turn to stone&#xa;&#xa;The flower grows just for the seed&#xa;The (?) bloom the honey bee&#xa;Shouldn&apos;t a free man&apos;s soul rise&#xa;Above these ravenous designs of love?&#xa;&#xa;Better to be born blind&#xa;Than to see and then lose sight&#xa;Better a desolate peace&#xa;Than to fight with your memories&#xa;&#xa;So take my heart to your grave&#xa;It just pumps cold blood through my veins&#xa;I lost it all in fate&apos;s game&#xa;Only the devil remembers my name&#xa;&#xa;Only a foolish heart concedes to fate&#xa;And the trials and turns that it dictates&#xa;The only love that will never die&#xa;Is the love you always deny&#xa;&#xa;Like a barb it clings&#xa;Loss forever stings&#xa;The pain will never leave&#xa;Love is a cruel disease&#xa;&#xa;Like a wick that holds to the flame&#xa;The path to her started the blaze&#xa;The match you made is to blame&#xa;The steps to love and death were the same&#xa;&#xa;Now that you&apos;ve loved and lost&#xa;Would you repay the cost? A price so severe&#xa;If you&apos;d never loved her she&apos;d be here&#xa;&#xa;So take my heart to your grave&#xa;It just pumps cold blood through my veins&#xa;I lost it all in fate&apos;s game&#xa;Only the devil remembers my name&#xa;(x2)" ID="ID_315492071" CREATED="1548851586842" MODIFIED="1548851591163"/>
 </node>
-<node TEXT="8. &#x201c;A Slanted Tone&#x201d;&#xa;Haliechuck: We introduce a new character, this woman Vivian who David has a history with. The story is coming from her perspective, and she&#x2019;s telling us that you can&#x2019;t always trust narration. She understands something about the narrator that no one understands yet." ID="ID_1608928760" CREATED="1548237177291" MODIFIED="1548237178045">
+<node TEXT="8. &#x201c;A Slanted Tone&#x201d;&#xa;Haliechuck: We introduce a new character, this woman Vivian who David has a history with. The story is coming from her perspective, and she&#x2019;s telling us that you can&#x2019;t always trust narration. She understands something about the narrator that no one understands yet." FOLDED="true" ID="ID_1608928760" CREATED="1548237177291" MODIFIED="1548237178045">
 <node TEXT="https://genius.com/Fucked-up-a-slanted-tone-lyrics" ID="ID_836766942" CREATED="1548851718558" MODIFIED="1548851718558" LINK="https://genius.com/Fucked-up-a-slanted-tone-lyrics"/>
 <node TEXT="His voice in the sky is the sound that you hear&#xa;His timbre is dim and his motives aren&apos;t clear&#xa;Why does the prophet above have so much to fear?&#xa;Things aren&apos;t always the way that they appear&#xa;&#xa;He&apos;s a horn with a slanted tone&#xa;He&apos;s the back without the bone&#xa;The king sits on a crooked throne&#xa;Stuck inside the story alone&#xa;&#xa;When he raised a trumpet to his mouth&#xa;The sound of every voice tumbled out&#xa;When he stretched the canvas (?) to the frame&#xa;He painted everyone with the same brush&#xa;&#xa;He tells the whole story by a string&#xa;He tells the choir when to sing&#xa;He&apos;s a shadow in the sky&#xa;&#xa;(Chorus)&#xa;&#xa;His description of the truth has pages torn&#xa;His inscription of roses just the thorns&#xa;His scripture is ripped by the back of his hand&#xa;The scribe&apos;s wish is the subject&apos;s command&#xa;&#xa;(Chorus)&#xa;&#xa;(Repeat 2nd &amp; 3rd verses)&#xa;&#xa;I&apos;ve witnessed things I never thought I&apos;d see&#xa;There&apos;s a darkness now I could not foresee&#xa;An innocent man resigned to a plea&#xa;&#xa;A company in captivity by a narrator&apos;s desire&#xa;To be free from the confines of an honest story&#xa;&#xa;It all seems so real now between you and me&#xa;There&apos;s a light at the end of the tale you see&#xa;To the way things are now&#xa;Aren&apos;t the way they&apos;ll always be&#xa;&#xa;How can I let them know, the truth about Octavio?&#xa;That he was lying all along&#xa;Don&apos;t trust the words you hear in a song" ID="ID_77206762" CREATED="1548851705627" MODIFIED="1548851708654"/>
 </node>
@@ -152,165 +306,14 @@
 </node>
 <node TEXT="https://genius.com/albums/Fucked-up/David-comes-to-life" ID="ID_238531552" CREATED="1548840175810" MODIFIED="1548840175810" LINK="https://genius.com/albums/Fucked-up/David-comes-to-life"/>
 </node>
-<node TEXT="The Chemistry of Common Life" POSITION="left" ID="ID_1610501968" CREATED="1550745672596" MODIFIED="1550745674778">
-<edge COLOR="#00ff00"/>
-<node TEXT="https://en.wikipedia.org/wiki/The_Chemistry_of_Common_Life" ID="ID_581401806" CREATED="1550745712456" MODIFIED="1550745712456" LINK="https://en.wikipedia.org/wiki/The_Chemistry_of_Common_Life"/>
-<node TEXT="https://genius.com/albums/Fucked-up/The-chemistry-of-common-life" ID="ID_13535315" CREATED="1550745651021" MODIFIED="1550746305002" LINK="https://genius.com/albums/Fucked-up/The-chemistry-of-common-life">
-<node FOLDED="true" ID="ID_1309055982" CREATED="1550746176521" MODIFIED="1550746176521" LINK="https://genius.com/Fucked-up-son-the-father-lyrics"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <h3 class="chart_row-content-title">
-      <a ng-if="$ctrl.can('view')" ng-href="https://genius.com/Fucked-up-son-the-father-lyrics" class="u-display_block" href="https://genius.com/Fucked-up-son-the-father-lyrics">Son the Father <span class="chart_row-content-title-subtitle">Lyrics</span></a>
-    </h3>
-  </body>
-</html>
-
-</richcontent>
-<node TEXT="Father, father, come see what I&apos;ve built&#xa;Made civilization out of the Nile silt&#xa;Built your monuments out of my brother&apos;s bones&#xa;Exalted your words in flesh-bound tomes&#xa;&#xa;It&apos;s hard enough being born in the first place&#xa;Who would ever want to be born again?&#xa;It&apos;s taken this long just to get to this place&#xa;So what&apos;s the point in ever being born again?&#xa;&#xa;Papa, papa, come and watch me play&#xa;The whole world before me I laid to waste&#xa;Built Jerusalem out of these hidden worlds&#xa;But I won&apos;t share it with the other boys and girls&#xa;&#xa;It&apos;s hard enough being born in the first place&#xa;Who would ever want to be born again?&#xa;It&apos;s taken this long just to get to this place&#xa;So what&apos;s the point in ever being born again?&#xa;&#xa;More embarrassed than I&apos;d hope to admit&#xa;The living embodiment of perfect&#xa;A reversed Oedipal complex&#xa;Based on power and not on the sex&#xa;&#xa;More embarrassed than I&apos;d ever to admit&#xa;The living embodiment of perfect&#xa;A reversed Oedipal complex&#xa;Based on power and not on the sex&#xa;&#xa;Daddy, daddy, are you proud of me?&#xa;I did it all for you because of what I believe&#xa;The sins of the father carried out by the son&#xa;From Cain and Abel until the last living life is done&#xa;&#xa;It&apos;s hard enough being born in the first place&#xa;Who would ever want to be born again?&#xa;It&apos;s taken this long just to get to this place&#xa;So what&apos;s the point in ever being born again?&#xa;&#xa;Again we stand slack-jawed&#xa;As our fates are moved by the hand of God, of God, of God, of God, of God&#xa;A God is what we see&#xa;As we stare into his Papal eyes" ID="ID_611821192" CREATED="1550746314928" MODIFIED="1550746316283"/>
+<node TEXT="Glass Boys" POSITION="right" ID="ID_1984837678" CREATED="1554286575764" MODIFIED="1554286577441">
+<edge COLOR="#ff00ff"/>
+<node TEXT="https://en.wikipedia.org/wiki/Glass_Boys" ID="ID_105491870" CREATED="1554286686210" MODIFIED="1554286686210" LINK="https://en.wikipedia.org/wiki/Glass_Boys"/>
 </node>
-<node FOLDED="true" ID="ID_149531556" CREATED="1550746187995" MODIFIED="1550746305001" LINK="https://genius.com/Fucked-up-magic-word-lyrics" HGAP_QUANTITY="13.250000022351742 pt" VSHIFT_QUANTITY="-0.7499999776482589 pt"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <h3 class="chart_row-content-title">
-      <a ng-if="$ctrl.can('view')" ng-href="https://genius.com/Fucked-up-magic-word-lyrics" class="u-display_block" href="https://genius.com/Fucked-up-magic-word-lyrics">Magic Word <span class="chart_row-content-title-subtitle">Lyrics</span></a>
-    </h3>
-  </body>
-</html>
-
-</richcontent>
-<node TEXT="[Verse 1:]&#xa;Put a bug into my ear&#xa;When I woke up I was here&#xa;I blew smoke onto a page and watched the letters re-arrange&#xa;Pushed the words into my veins&#xa;Tripped the valve inside my brain&#xa;Spoke a language I could see&#xa;I swam inside reality&#xa;&#xa;[Chorus]&#xa;Write in vines and speak in tongues&#xa;Double meanings in my lungs&#xa;Brazen head spits out the skies&#xa;These words are heavy but I&apos;m alright&#xa;&#xa;[Verse 2:]&#xa;The tangled web inside my head changed the canvas as it spread&#xa;Concepts mushroomed as I talked&#xa;Notions opened as I walked&#xa;Chemistry is just a word we use to describe&#xa;What occurs when subtle changes in our mind make energy from common lives&#xa;&#xa;[Chorus]&#xa;&#xa;[Bridge]&#xa;Things move everywhere, I look, I&apos;m stuck in someone else&apos;s book&#xa;Letter perfect engineer then it all just disappears&#xa;Alright&#xa;&#xa;[Chorus]&#xa;&#xa;All of my words became one all the changes were undone&#xa;I&apos;m a strange loop, that is clear, put a bug into my ear" ID="ID_1377134936" CREATED="1550746320416" MODIFIED="1550746340546"/>
-</node>
-<node ID="ID_313554060" CREATED="1550746194906" MODIFIED="1550746194906" LINK="https://genius.com/Fucked-up-golden-seal-lyrics"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <h3 class="chart_row-content-title">
-      <a ng-if="$ctrl.can('view')" ng-href="https://genius.com/Fucked-up-golden-seal-lyrics" class="u-display_block" href="https://genius.com/Fucked-up-golden-seal-lyrics">Golden Seal <span class="chart_row-content-title-subtitle">Lyrics</span></a>
-    </h3>
-  </body>
-</html>
-
-</richcontent>
-</node>
-<node ID="ID_57835709" CREATED="1550746197863" MODIFIED="1550746197863" LINK="https://genius.com/Fucked-up-days-of-last-lyrics"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <h3 class="chart_row-content-title">
-      <a ng-if="$ctrl.can('view')" ng-href="https://genius.com/Fucked-up-days-of-last-lyrics" class="u-display_block" href="https://genius.com/Fucked-up-days-of-last-lyrics">Days of Last <span class="chart_row-content-title-subtitle">Lyrics</span></a>
-    </h3>
-  </body>
-</html>
-
-</richcontent>
-</node>
-<node ID="ID_1201379801" CREATED="1550746201119" MODIFIED="1550746201119" LINK="https://genius.com/Fucked-up-crooked-head-lyrics"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <h3 class="chart_row-content-title">
-      <a ng-if="$ctrl.can('view')" ng-href="https://genius.com/Fucked-up-crooked-head-lyrics" class="u-display_block" href="https://genius.com/Fucked-up-crooked-head-lyrics">Crooked Head <span class="chart_row-content-title-subtitle">Lyrics</span></a>
-    </h3>
-  </body>
-</html>
-
-</richcontent>
-</node>
-<node ID="ID_1756184982" CREATED="1550746203834" MODIFIED="1550746203834" LINK="https://genius.com/Fucked-up-no-epiphany-lyrics"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <h3 class="chart_row-content-title">
-      <a ng-if="$ctrl.can('view')" ng-href="https://genius.com/Fucked-up-no-epiphany-lyrics" class="u-display_block" href="https://genius.com/Fucked-up-no-epiphany-lyrics">No Epiphany <span class="chart_row-content-title-subtitle">Lyrics</span></a>
-    </h3>
-  </body>
-</html>
-
-</richcontent>
-</node>
-<node ID="ID_477685877" CREATED="1550746206944" MODIFIED="1550746206944" LINK="https://genius.com/Fucked-up-black-albino-bones-lyrics"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <h3 class="chart_row-content-title">
-      <a ng-if="$ctrl.can('view')" ng-href="https://genius.com/Fucked-up-black-albino-bones-lyrics" class="u-display_block" href="https://genius.com/Fucked-up-black-albino-bones-lyrics">Black Albino Bones <span class="chart_row-content-title-subtitle">Lyrics</span></a>
-    </h3>
-  </body>
-</html>
-
-</richcontent>
-<node TEXT="Can&apos;t sleep thinking about it (x4)&#xa;&#xa;Rubbing stones together until the magic comes out&#xa;Embracing the purity, the purity of obscurity&#xa;Try to capture the name as it spins in your mind&#xa;Follow it with our eyes&#xa;The dizzy epiphany discovered an artifact of my own&#xa;It&apos;s the little things that get us through life&#xa;&#xa;Squishing flesh together until the magic comes out&#xa;Until we both ejaculate ride the wave&#xa;As a little dies, the orgasmic of the fantastic&#xa;We well up, and then we explode!&#xa;It&apos;s the little things that get us through life&#xa;&#xa;I need a little escape (x4)&#xa;&#xa;Burning plants together until the magic comes out&#xa;Take it in the inhalate, inhalate what escalates&#xa;Hold the vapor deep down inside the toxic fumes&#xa;Initiate the levitate&#xa;We slowly start to drift off&#xa;It&apos;s the little things that get us through life&#xa;&#xa;I need a little escape (x4)&#xa;&#xa;Rubbing stones together until the magic comes out&#xa;Squishing flesh together until the magic comes out&#xa;Burning plants together until the magic comes out&#xa;&#xa;Can&apos;t sleep thinking about it (x4)&#xa;&#xa;I need a little escape (x6)" ID="ID_243824580" CREATED="1550746237159" MODIFIED="1550746238971"/>
-</node>
-<node ID="ID_1370103987" CREATED="1550746210385" MODIFIED="1550746210385" LINK="https://genius.com/Fucked-up-royal-swan-lyrics"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <h3 class="chart_row-content-title">
-      <a ng-if="$ctrl.can('view')" ng-href="https://genius.com/Fucked-up-royal-swan-lyrics" class="u-display_block" href="https://genius.com/Fucked-up-royal-swan-lyrics">Royal Swan <span class="chart_row-content-title-subtitle">Lyrics</span></a>
-    </h3>
-  </body>
-</html>
-
-</richcontent>
-</node>
-<node ID="ID_1831343566" CREATED="1550746215416" MODIFIED="1550746215416" LINK="https://genius.com/Fucked-up-twice-born-lyrics"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <h3 class="chart_row-content-title">
-      <a ng-if="$ctrl.can('view')" ng-href="https://genius.com/Fucked-up-twice-born-lyrics" class="u-display_block" href="https://genius.com/Fucked-up-twice-born-lyrics">Twice Born (Ft.&#160;Sebastien&#160;Grainger) <span class="chart_row-content-title-subtitle">Lyrics</span></a>
-    </h3>
-  </body>
-</html>
-
-</richcontent>
-</node>
-<node ID="ID_1429065859" CREATED="1550746219031" MODIFIED="1550746219031" LINK="https://genius.com/Fucked-up-the-chemistry-of-common-life-lyrics"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <h3 class="chart_row-content-title">
-      <a ng-if="$ctrl.can('view')" ng-href="https://genius.com/Fucked-up-the-chemistry-of-common-life-lyrics" class="u-display_block" href="https://genius.com/Fucked-up-the-chemistry-of-common-life-lyrics">The Chemistry of Common Life <span class="chart_row-content-title-subtitle">Lyrics</span></a>
-    </h3>
-  </body>
-</html>
-
-</richcontent>
-</node>
-</node>
-<node TEXT="1. &quot;Son the Father&quot; (guest vocals by Lullabye Arkestra) 6:32&#xa;2. &quot;Magic Word&quot; 3:21&#xa;3. &quot;Golden Seal&quot; 3:35&#xa;4. &quot;Days of Last&quot; 4:31&#xa;5. &quot;Crooked Head&quot; 5:55&#xa;6. &quot;No Epiphany&quot; (guest vocals by Vivian Girls) 4:19&#xa;7. &quot;Black Albino Bones&quot; (guest vocals by Dallas Green) 4:14&#xa;8. &quot;Royal Swan&quot; (guest vocals by Katie Stelmanis) 4:49&#xa;9. &quot;Twice Born&quot; (guest vocals by Sebastien Grainger) 4:26&#xa;10. &quot;Looking for God&quot; (Instrumental) 3:15&#xa;11. &quot;The Chemistry of Common Life&quot; 7:23" ID="ID_1263773192" CREATED="1550745737135" MODIFIED="1550745739111"/>
+<node TEXT="Dose Your Dreams" POSITION="right" ID="ID_386251343" CREATED="1554286639966" MODIFIED="1554286662888">
+<edge COLOR="#00007c"/>
+<node TEXT="https://en.wikipedia.org/wiki/Dose_Your_Dreams" ID="ID_1200549608" CREATED="1554286671940" MODIFIED="1554286671940" LINK="https://en.wikipedia.org/wiki/Dose_Your_Dreams"/>
+<node TEXT="https://www.discogs.com/Fucked-Up-Dose-Your-Dreams/release/12581904" ID="ID_86626199" CREATED="1554286879626" MODIFIED="1554286879626" LINK="https://www.discogs.com/Fucked-Up-Dose-Your-Dreams/release/12581904"/>
 </node>
 </node>
 </map>
